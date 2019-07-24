@@ -14,6 +14,7 @@ Free Radical currently blocks these instances:
 | gab.polaris-1.work  | suspend  |              | We don't federate with Gab or its affiliates^2    |
 | gab.sleeck.eu       | suspend  |              | We don't federate with Gab or its affiliates^2    |
 | humblr.social       | silence  | yes          | Prodigious amounts of NSFW content^1              |
+| kiwifarms.cc        | suspend  |              | Literal Nazi stuff. Pediophilia advocacy.         |
 | not-develop.gab.com | suspend  |              | We don't federate with Gab or its affiliates^2    |
 | pawoo.net           | silence  | yes          | Complaints about content in federated timeline    |
 | pl.smuglo.li        | silence  | yes          | Failure to respond to complaints                  |
