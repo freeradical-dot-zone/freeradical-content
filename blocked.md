@@ -9,6 +9,7 @@ Free Radical currently blocks these instances:
 | baraag.net          | silence  | yes          | Uncensored loli and shota porn, graphic violance, etc. |
 | cyzed.com           | suspend  |              | We don't federate with Gab or its affiliates^2    |
 | devel.gab.com       | suspend  |              | We don't federate with Gab or its affiliates^2    |
+| freefedifollowers.ga | suspend |              | Spam.                                             |   
 | exited.eu           | suspend  |              | We don't federate with Gab or its affiliates^2    |
 | gab.com             | suspend  |              | We don't federate with Gab or its affiliates^2    |
 | gab.polaris-1.work  | suspend  |              | We don't federate with Gab or its affiliates^2    |
