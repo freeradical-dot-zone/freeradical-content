@@ -19,11 +19,11 @@
 
 ## Blocked instances
 
-We block some other instances. The full list is [on GitHub](https://github.com/kstrauser/freeradical/blob/master/content/blocked.md). Contact a moderator if you wish to dispute an entry.
+We block some other instances. The full list is [on GitHub](https://github.com/freeradical-dot-zone/freeradical-content/blob/master/blocked.md). Contact a moderator if you wish to dispute an entry.
 
 ## Rules
 
-* No advertising or excessive promotion
+* No commercial accounts, advertising, or excessive promotion
 * No bots, unless they're cute, funny, or useful. Bots should avoid posting to the public timeline.
 * No gore or graphic violence
 * Content that is borderline NSFW or could be construed as NSFW at a glance should be put behind a CW (Content Warning)
@@ -35,6 +35,7 @@ We block some other instances. The full list is [on GitHub](https://github.com/k
 * No holocaust denialism, Nazi symbolism, promotion of National Socialism, or anything that is illegal in the European Union
 * No stalking or harassment
 * No fake accounts unless they are clearly labeled as such
+* No solicitation of prostitution
 
 ## Handling harassment
 
